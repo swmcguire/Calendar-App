@@ -40,9 +40,9 @@ $(function () {
 //--------------------------------Add OnClick Event-----------//  
 $(".saveBtn").on("click",function() {
 //--------------------------------When button clicked then save to local storage 
-var textArea = $('textarea');
-var hourWindow = 
-//localStorage.setItem(x,y)
+var textArea = "element";
+var hourWindow = "9";
+localStorage.setItem(textArea,hourWindow);
   console.log("button click");
 
 });
