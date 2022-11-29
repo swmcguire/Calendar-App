@@ -16,11 +16,11 @@ No installation necessary - simply launch from the designated webpage and begin 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Once you launch the website from the designated webpage you can begin using the calendar.  You are able to type in the different text boxes and save the text to the local storage.  Once you refresh the page the text will return so you know what needs to be done for the day.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+![Picture with Color Differentiation](./assets/CalendarScreenShot.png)
 
-![alt text](assets/images/screenshot.png)
+![Screenshot of App](./assets/CalendarScreenShot2.png)
 
 ## Credits
 
