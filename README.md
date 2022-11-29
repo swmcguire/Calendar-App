@@ -18,9 +18,9 @@ No installation necessary - simply launch from the designated webpage and begin 
 
 Once you launch the website from the designated webpage you can begin using the calendar.  You are able to type in the different text boxes and save the text to the local storage.  Once you refresh the page the text will return so you know what needs to be done for the day.
 
-![color change image](assets/images/CalendarScreenShot.png)
+![color change image](/assets/images/CalendarScreenShot.png)
 
-![starting time](assets/images/CalendarScreenShot2.png)
+![starting time](/assets/images/CalendarScreenShot2.png)
 
 
 ## Credits
